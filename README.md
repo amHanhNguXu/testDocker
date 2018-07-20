@@ -1,5 +1,5 @@
 ### require docker
-### docker -v
+### test $ docker -v
 
 ### $ git clone https://github.com/amHanhNguXu/testDocker.git
 ### $ sudo docker build -t testdocker
